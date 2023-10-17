@@ -42,3 +42,9 @@ Please ensure you have the required libraries installed in your Python environme
 **Note:** This is a simple example of how to sort data in a CSV file. For more complex use cases or larger datasets, you may want to explore more efficient and scalable sorting methods.
 
 Feel free to modify and improve this code according to your specific needs.
+
+
+## Example
+In this case the Books.csv file is ordered by publication date, and the user chooses 1,1 (Author, Ascending)
+![Alt Text](screenshot-1.jpeg)
+![Alt Text](screenshot-2.jpeg)
