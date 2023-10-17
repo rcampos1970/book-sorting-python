@@ -45,6 +45,6 @@ Feel free to modify and improve this code according to your specific needs.
 
 
 ## Example
-In this case the Books.csv file is ordered by publication date, and the user chooses 1,1 (Author, Ascending)
+In this particular scenario, the dataset is organized in a structured manner within a file named "Books.csv," and it is sorted in a specific way, which is by the publication date of the books. The user has made a selection, specifying "1,1" which corresponds to sorting by "Author" in an ascending (ascending alphabetical order) fashion. On one side of the user interface, we have the original "Books.csv" file, which contains the unsorted data or the initial dataset. On the other side, we have a new file labeled "books_sorted.csv," which is the result of the sorting operation the user initiated.
 ![Alt Text](screenshot-1.jpeg)
 ![Alt Text](screenshot-2.jpeg)
